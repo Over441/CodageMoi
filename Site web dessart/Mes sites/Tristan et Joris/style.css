@@ -1,0 +1,14 @@
+#carte{
+    margin:0 auto ;
+    text-align: center;
+    align-content: center;
+    padding: initial;
+    margin: auto;
+}
+
+h1{
+    color: red;
+}
+body{
+    background-image: url(Image/x1080.jpg);
+}

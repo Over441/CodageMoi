@@ -1,0 +1,28 @@
+#debut{
+    
+    margin:0 auto ;
+    text-align: center;
+    align-content: center;
+    padding: initial;
+    margin: auto;
+}
+body{
+    background: cyan;
+}
+#video{
+    width: 800px0;
+    margin:0 auto ;
+    text-align: center;
+    align-content: center;
+    margin: auto;
+    padding: initial;
+    background: red;
+}
+#Twitch{
+    margin:0 auto ;
+    text-align: center;
+    align-content: center;
+    padding: initial;
+    margin: auto;
+    background: purple;
+}
