@@ -12,3 +12,15 @@ h1{
 body{
     background-image: url(Image/x1080.jpg);
 }
+p{
+    color: transparent;
+}
+a{
+    color: transparent;
+}
+a:visited{
+    color: transparent;
+}
+a:hover{
+    color: transparent;
+}
