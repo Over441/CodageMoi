@@ -24,3 +24,11 @@ a:visited{
 a:hover{
     color: transparent;
 }
+
+#carte2{
+    margin:0 auto ;
+    text-align: end;
+    align-content: flex-end;
+    padding: initial;
+    margin: auto;
+}
