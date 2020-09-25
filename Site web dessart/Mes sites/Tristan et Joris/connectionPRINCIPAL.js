@@ -4,7 +4,7 @@ function passWord() {
     while (testV < 3) {
     if (!pass1)
     history.go(-1);
-    if (pass1.toLowerCase() == "tk78OZL") {
+    if (pass1.toLowerCase() == "OZL") {
     window.open('https://www.youtube.com/watch?v=CrtYDE0s_AI');
     break ;
     }
