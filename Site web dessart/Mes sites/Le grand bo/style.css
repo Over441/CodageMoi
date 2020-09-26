@@ -1,0 +1,34 @@
+h1
+{
+    color: red;
+}
+body
+{
+    background: url(https://i.imgur.com/rNH7xdN.jpg);
+    margin: auto;
+    padding: initial;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#carte
+{
+    width: 800px0;
+    margin:0 auto ;
+    text-align: center;
+    align-content: center;
+    margin: auto;
+    padding: initial;
+}
+
+ul li
+{
+    list-style: none;
+}
+
+h2
+{
+    color: green;
+}
+h3 {
+    color: salmon;
+}

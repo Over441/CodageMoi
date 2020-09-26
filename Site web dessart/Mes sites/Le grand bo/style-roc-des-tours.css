@@ -1,0 +1,28 @@
+h1
+{
+    color: red;
+}
+body
+{
+    background: url(https://i.imgur.com/jVFMMLh.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#roc
+{
+    margin: auto;
+    text-align: center;
+}
+
+ul li
+{
+    list-style: none;
+}
+
+h2
+{
+    color: green;
+}
+h3 {
+    color: salmon;
+}
