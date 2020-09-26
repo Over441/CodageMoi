@@ -5,3 +5,8 @@
     padding: initial;
     margin: auto;
 }
+body{
+    background-image: url(Image/1591091869-6916-card.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
