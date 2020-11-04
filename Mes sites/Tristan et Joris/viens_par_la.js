@@ -5,7 +5,7 @@ function Word() {
     if (!pass1)
     history.go(-1);
     if (pass1.toLowerCase() == "vapeisloading100%") {
-    window.open('http://over44.byethost7.com/Mes%20sites/Tristan%20et%20Joris/biote.html');
+    window.open('https://over441.github.io/CodageMoi/Mes%20sites/Tristan%20et%20Joris/biote.html');
     break ;
     }
     testV+=1;
