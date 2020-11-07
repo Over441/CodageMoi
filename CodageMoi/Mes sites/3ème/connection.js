@@ -5,7 +5,7 @@ function passWord() {
     if (!pass1)
     history.go(-1);
     if (pass1.toLowerCase() == "3ème2") {
-    window.open('http://over44.byethost7.com/Mes%20sites/3ème/index.html');
+    window.open('https://over441.github.io/CodageMoi/CodageMoi/Mes%20sites/3ème/index.html');
     break ;
     }
     testV+=1;
