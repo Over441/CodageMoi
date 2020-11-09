@@ -13,3 +13,8 @@ h1{
     color: red;
     font-size: 70px;
 }
+body{
+    background-image: url(./CodageMoi/Images/PaintDotNet_BYF0djNEA3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
