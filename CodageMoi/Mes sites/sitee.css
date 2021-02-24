@@ -9,7 +9,9 @@
     color: seashell;
 }
 body{
-    background: rgb(0, 168, 36);
+    background: url(https://i.imgur.com/0lprqNX.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 #video{
     width: 800px0;
